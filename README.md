@@ -7,8 +7,9 @@ Connect with me on socials.
 [Linkedin](https://www.linkedin.com/in/laura-du-ry-53203b94/) | [X](https://twitter.com/LDRVBH) | [Instagram](https://www.instagram.com/lauradury/)
 
 <a href="https://appwrite.io/init/tickets/65be346f298e3ffdf696">
-	<img width="350" src="https://appwrite.io/init/tickets/65be346f298e3ffdf696" alt="Appwrite Init Ticket" />
+	<img width="350" src="https://appwrite.io/_app/immutable/assets/ticket-bg-rainbow.c99e9524.svg" alt="Appwrite Init Ticket" />
 </a>
+
 
 
 <a href="https://cloud.appwrite.io/card/644ba7258b2976dbd46b">
